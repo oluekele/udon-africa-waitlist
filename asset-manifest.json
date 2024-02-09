@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udon-africa-waitlist/static/css/main.466b8e00.css",
+    "main.js": "/udon-africa-waitlist/static/js/main.4d73aba9.js",
+    "index.html": "/udon-africa-waitlist/index.html",
+    "main.466b8e00.css.map": "/udon-africa-waitlist/static/css/main.466b8e00.css.map",
+    "main.4d73aba9.js.map": "/udon-africa-waitlist/static/js/main.4d73aba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.466b8e00.css",
+    "static/js/main.4d73aba9.js"
+  ]
+}
